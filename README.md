@@ -122,7 +122,7 @@ python -m pip install "numpy>=1.26,<2" "matplotlib>=3.8,<4" jupyterlab ipykernel
 python -m jupyter lab
 ```
 
-Open `24011579_PHAS0029_Final(1).ipynb`, select the environment's Python kernel, and run the cells from top to bottom. All potentials and constants are defined in the notebook; no external dataset is required. The embedded-potential scans evaluate thousands of trial energies and are the most time-consuming sections.
+Open `24011579_PHAS0029_Final.ipynb`, select the environment's Python kernel, and run the cells from top to bottom. All potentials and constants are defined in the notebook; no external dataset is required. The embedded-potential scans evaluate thousands of trial energies and are the most time-consuming sections.
 
 ## Numerical limitations
 
