@@ -138,6 +138,6 @@ The empty-well benchmark is the clearest validated part of this educational impl
 
 | File | Purpose |
 | --- | --- |
-| `24011579_PHAS0029_Final(1).ipynb` | Original computational report, solver implementations, plots, and saved outputs |
+| `24011579_PHAS0029_Final.ipynb` | Original computational report, solver implementations, plots, and saved outputs |
 | `README.md` | Project description, setup instructions, workflow, and numerical limitations |
 | `workflow.mmd` | Editable Mermaid source for the workflow diagram |
